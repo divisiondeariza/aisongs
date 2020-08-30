@@ -1,4 +1,4 @@
-(ns aisong.note-sequences
+(ns aisong.magenta.coconet
   (:require [clojure.repl :refer :all]
             [leipzig.live :as live]
             [clj-http.client :as client]
